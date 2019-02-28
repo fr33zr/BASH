@@ -14,6 +14,7 @@ try resolving your computers IP back to IPV4 if your using wifi. Your connection
 
 LINUX: If you type ifconfig in the terminal you will see several IPV6 addresses, after executing ./disipv6.sh,
 type ifconfig again and they should have disappeared.
+
 You can make the file executable by running:
 
 sudo chmod u+x
