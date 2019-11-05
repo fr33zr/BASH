@@ -17,7 +17,7 @@ type ifconfig again and they should have disappeared.
 
 You can make the file executable by running:
 
-sudo chmod u+x
+sudo chmod 755
 
 Then execute the file by typing:
 
